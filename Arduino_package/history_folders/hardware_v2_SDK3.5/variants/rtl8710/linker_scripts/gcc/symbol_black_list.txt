@@ -1,3 +1,0 @@
-rom_ssl_ram_map RTL8710 do not support SSL
-analogReadResolution RTL8710 do not support ADC
-analogRead RTL8710 do not support ADC
